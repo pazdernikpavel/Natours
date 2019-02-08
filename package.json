@@ -18,6 +18,6 @@
   "homepage": "https://github.com/pazdernikpavel/Natours#readme",
   "dependencies": {},
   "devDependencies": {
-    "node-sass": "^4.9.0"
+    "node-sass": "^4.11.0"
   }
 }
